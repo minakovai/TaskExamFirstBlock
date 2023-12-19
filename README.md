@@ -14,5 +14,5 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
-##Блок схему прикрепил файлом TestExam.drawio.png
+## Блок схему прикрепил файлом TestExam.drawio.png
 Также она доступна по ссылке: https://drive.google.com/file/d/1rlF3RJC6dlvQPhN0RMEVaaNHgHkf48GA/view?usp=sharing 
